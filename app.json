@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "my-diet",
+    "slug": "my-diet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
